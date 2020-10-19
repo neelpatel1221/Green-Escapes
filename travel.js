@@ -19,6 +19,5 @@ const navSlide = () =>{
 		hamburger.classList.toggle('toggle');
 	});
 
-	
 }
 navSlide();
