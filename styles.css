@@ -223,7 +223,7 @@ header{
 	color: white;
 }
 
- /*Social Media*/
+
 
 #socialMedia{
 	padding: 7% 15%;
@@ -247,7 +247,7 @@ p{
 	letter-spacing: 1px;
 }
 
-/*Photo Gallery*/
+
 #gallery{
 	padding-bottom: 10%;
 	padding-top: 5%;
@@ -329,7 +329,7 @@ p{
 }
 
 
-/*Contact us*/
+
 #contact{
 	padding: 5% 0%;
 	background-color: #C6F8B7;
@@ -344,7 +344,7 @@ p{
 	font-size: 3rem;
 }
 .fa:hover{
-  color: yellow;
+  color: yellowgreen;
 }
 
 .btn{
@@ -355,7 +355,7 @@ p{
 	color: white;
 }
 
-/*Footer*/
+
 #footer{
 	padding: 2% 15%;
 	text-align: center;
